@@ -1,4 +1,4 @@
-# 🧑‍💻 Hello, I'm @cheachwood
+# 🧑‍💻 Hello, I'm Jean-Charles FELICITE
 
 ---
 
