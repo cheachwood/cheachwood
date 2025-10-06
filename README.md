@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @cheachwood
-- 👀 I’m interested in Docker
-- 🌱 I’m currently learning Docker, Gitlab CI/CD
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Web3
+- 🌱 I’m currently learning Web3, the concepts of the blockchain, smart contracts, ...
+- 💞️ I’m looking to collaborate on Web3
+- 📫 You can reach me à cheachwood@gmail.com
 
 <!---
 cheachwood/cheachwood is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
